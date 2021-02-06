@@ -1,2 +1,2 @@
-include ':app'
+include ':learnKotlin'
 rootProject.name = "LearnFirstLineCode"
